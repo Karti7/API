@@ -17,7 +17,7 @@ const UseEffectAPI = () => {
 
     return (
         <div>
-            <h1 className="text-uppercase text-danger mt-2">API Random data Fetch</h1>
+            <h1 className="text-uppercase text-danger mt-3">API Random data Fetch</h1>
             <div className="container-fluid mt-2">
                 <div className="row  text-center">
 
